@@ -1,2 +1,78 @@
-# chrisbel4.github.io
-hi
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lianne Appreciation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #ffccff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            background-image: url('https://i.imgur.com/ZbH6KtJ.png'); /* Hello Kitty background */
+            background-size: cover;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            position: relative;
+        }
+        h1 {
+            color: #ff66b2;
+        }
+        p {
+            font-size: 18px;
+        }
+        .heart {
+            font-size: 50px;
+            color: red;
+        }
+        .stickers {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 20px;
+        }
+        .stickers img {
+            width: 80px;
+            height: auto;
+            border-radius: 10px;
+        }
+        .quotes {
+            margin-top: 20px;
+            font-style: italic;
+            color: #99004d;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Dear Lianne,</h1>
+        <p>You are truly an amazing person, and I just wanted to take a moment to appreciate you.</p>
+        <p>Your kindness, your smile, and the way you light up a room make the world a better place.</p>
+        <p>Never forget how special you are and how much you are appreciated.</p>
+        <p class="heart">❤️</p>
+        <p>Stay amazing, Lianne!</p>
+        
+        <div class="stickers">
+            <img src="https://i.imgur.com/vJX2PZn.png" alt="Death Note Sticker">
+            <img src="https://i.imgur.com/MA7nDXw.png" alt="Tokyo Ghoul Sticker">
+            <img src="https://i.imgur.com/GI6I2oz.png" alt="Demon Slayer Sticker">
+        </div>
+        
+        <div class="quotes">
+            <p>"You can’t sit around envying other people’s worlds. You have to go out and change your own." - Light Yagami, Death Note</p>
+            <p>"It's not the face that makes someone a monster; it's the choices they make with their lives." - Naruto Uzumaki</p>
+            <p>"No matter how deep the night, it always turns to day, eventually." - Rengoku, Demon Slayer</p>
+        </div>
+    </div>
+</body>
+</html>
+
